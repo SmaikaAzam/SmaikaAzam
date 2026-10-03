@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Smaika Azam 👋
 
-<!--
-**SmaikaAzam/SmaikaAzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+- 🎓 I am a student learning Software Engineering.
+- 💻 I am interested in programming and software development.
+- 🌱 I am continuously learning new technologies and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+- Programming: Python, C#, HTML , CSS, JavaScript 
+- Tools: Git, GitHub, Visual Studio Code
+
+Projects
+
+- Developer Profile README — My first GitHub profile project.
+
+Education
+
+- 🎓 Bachelor of Science in Software Engineering (BSSE)
+- 🏫 University of Engineering and Technology (UET), Lahore
+- 📚 Currently pursuing
+
+Contact
+
+- GitHub: "@SmaikaAzam" (https://github.com/SmaikaAzam)
+- Email: smaikaazam1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/smaika-azam-8291373a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
