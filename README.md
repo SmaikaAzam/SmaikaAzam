@@ -26,3 +26,5 @@ Contact
 - GitHub: "@SmaikaAzam" (https://github.com/SmaikaAzam)
 - Email: smaikaazam1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/smaika-azam-8291373a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- 🚀 I am learning Git and GitHub using VS Code.
